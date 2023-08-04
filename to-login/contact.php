@@ -217,7 +217,7 @@ include 'header.php';
                 <div class="col-lg-6 px-0 mb-5 mb-lg-0">
                     <div class="maps-container map">
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13979.446453087201!2d77.1045429!3d28.8429798!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1169930518add2fe!2sNational%20Institute%20of%20Technology%20Delhi!5e0!3m2!1sen!2sin!4v1635929051943!5m2!1sen!2sin"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d112185.5907532482!2d77.40760899173061!3d28.515673139421466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ceb193588358f%3A0x8274cec5a1321578!2sGL%20Bajaj%20Institute%20of%20Technology%20%26%20Management!5e0!3m2!1sen!2sin!4v1691155647225!5m2!1sen!2sin"
                             width="550" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                     </div>
                 </div>
